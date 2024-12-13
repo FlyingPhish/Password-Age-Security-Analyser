@@ -73,10 +73,9 @@ Visualisation files have been saved to: output
 ```
 
 ## Sample Visulations
-![image](https://github.com/user-attachments/assets/a0e56820-066c-45b8-a8c5-81f1bbc30269)
+![image](https://github.com/user-attachments/assets/37da4b7c-bf62-48a3-acb8-e2c5cc61b6f5)
 
-![image](https://github.com/user-attachments/assets/bbbcdea1-e54c-4bd5-a46d-a09121d14c95)
-
+![image](https://github.com/user-attachments/assets/ba803fd2-e532-4bb1-af94-d826859afaf4)
 
 ## Features
 
